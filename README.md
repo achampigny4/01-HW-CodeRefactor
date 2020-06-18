@@ -1,6 +1,6 @@
 # 01-HW-CodeRefactor
 UNH Coding Bootcamp first homework
-I am making this website more accessable by making sure the;
+I am making this website more accessible by making sure the;
  * Application utilizes semantic html (articles, sections, headers, etc)
  * Application's html elements follow logical structure independent of styling and positioning
  * Application's image elements all have accessible `alt` attributes
