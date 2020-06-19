@@ -83,7 +83,7 @@ section img position */
     margin-left: 25px;
 }
 
-/* section style */
+/* Main section style */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,12 +93,12 @@ section img position */
     color: #ffffff;
 }
 
-/* Section img size */
+/* Main section img size */
 section img {
     max-height: 200px;
 }
 
-/* Section headers */
+/* Main section headers */
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -128,7 +128,7 @@ aside h3 {
     text-align: center;
 }
 
-/* right sided img locations */
+/* right side img locations */
 aside img {
     display: block;
     margin: 10px auto;
