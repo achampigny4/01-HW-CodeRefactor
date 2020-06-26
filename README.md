@@ -9,3 +9,5 @@ I am making this website more accessible by making sure the;
  * Application's links all function correctly
  * Application's css selectors and properties are consolidated and organized to follow semantic structure
  * Application's css file is properly commented
+ My project can be seen here: https://achampigny4.github.io/HoriseonCodeRefactor/
+ <img src="./assets/images/screenshot.jpg" alt="Screenshot of Horiseon webpage"></img>
